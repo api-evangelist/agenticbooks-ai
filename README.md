@@ -66,7 +66,7 @@
 
 AgenticBooks provides instant financial statements for AI agents and founders. It connects data sources and automatically ships numbers to agents and accountants, enabling automated bookkeeping for AI-driven businesses. The platform offers a web app, API, and documentation for developers to integrate financial reporting into AI workflows.
 
-**Areas:** AI · Bookkeeping · Finance · Automation · SaaS
+**Areas:** Artificial Intelligence · Bookkeeping · Finance · Automation · Software-as-a-Service
 
 ## AgenticBooks on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for AgenticBooks is published on APIs.io rather than in this
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agenticbooks-ai-mcp.yml](https://apis.io/servers/agenticbooks-ai/agenticbooks-ai-mcp-yml/)
 
 #### JSON Schema (3)
 
@@ -105,26 +111,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticbooks Ai Authentication](https://apis.io/security/agenticbooks-ai/agenticbooks-ai-authentication/)
-- [Agenticbooks Ai Domain Security](https://apis.io/security/agenticbooks-ai/agenticbooks-ai-domain-security/)
+- [AgenticBooks Authentication](https://apis.io/security/agenticbooks-ai/agenticbooks-ai-authentication/)
+- [AgenticBooks Domain Security](https://apis.io/security/agenticbooks-ai/agenticbooks-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticbooks Ai Scopes](https://apis.io/scopes/agenticbooks-ai/agenticbooks-ai-scopes/)
+- [AgenticBooks Scopes](https://apis.io/scopes/agenticbooks-ai/agenticbooks-ai-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenticbooks Ai Plans Pricing](https://apis.io/plans/agenticbooks-ai/agenticbooks-ai-plans-pricing/)
+- [AgenticBooks Plans Pricing](https://apis.io/plans/agenticbooks-ai/agenticbooks-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agenticbooks Ai Rate Limits](https://apis.io/rate-limits/agenticbooks-ai/agenticbooks-ai-rate-limits/)
+- [AgenticBooks Rate Limits](https://apis.io/rate-limits/agenticbooks-ai/agenticbooks-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -143,18 +149,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 51.3** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 38.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
-| Contract quality | 49.3 |
-| Contract governance | 79.1 |
+| Discoverability | 63.3 |
+| Contract quality | 21.4 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 42.9 |
-| Access clarity | 63.7 |
+| Access clarity | 68.1 |
 
-**Agent readiness 40.7** — agent-ready (gated down from agent-native)
+**Agent readiness 32.3** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -163,7 +169,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
-| Idempotency | verified |
+| Idempotency | derived (partial credit) |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
@@ -180,8 +186,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenticbooks-ai/](https://apis.io/providers/agenticbooks-ai/).
 
